@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: M11, Configuration: Debug Any CPU ------
+1>  M11 -> D:\Capgemini\C#\M11\M11\bin\Debug\M11.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
